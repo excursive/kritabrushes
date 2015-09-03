@@ -1,5 +1,5 @@
 # kritabrushes
-My brush collection. Include incomplete/WIP brushes. Free for commercial/non-commercial/whatever use.
+My brush collection. Includes incomplete/WIP brushes. Free for commercial/non-commercial/whatever use.
 
 
 Includes many brushes created by others, some with a few modifications. See the following brush packs (all CC-0 or similar):
