@@ -1,8 +1,8 @@
 # kritabrushes
-My brush collection. Include incomplete/WIP brushes.
+My brush collection. Include incomplete/WIP brushes. Free for commercial/non-commercial/whatever use.
 
 
-Includes many brushes created by others, some with a few modifications. See the following brush packs:
+Includes many brushes created by others, some with a few modifications. See the following brush packs (all CC-0 or similar):
 
 http://deevad.deviantart.com/art/Free-Krita-brush-presets-475761268
 
